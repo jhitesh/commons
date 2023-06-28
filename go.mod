@@ -1,4 +1,4 @@
-module commons
+module github.com/jhitesh/commons
 
 go 1.18
 
